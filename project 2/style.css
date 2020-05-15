@@ -1,0 +1,91 @@
+.q {
+    background-color: rgba(219, 51, 51, 0.925);
+    max-width: 300px;
+    min-width: 80px;
+    height: 450px;
+    border-radius: 40px;
+    margin: auto;
+    margin-top: 40px;
+    box-shadow: snow 1px 1px 45px;
+}
+
+body {
+    background-color: rgb(43, 11, 11);
+}
+
+.w {
+    color: rgb(255, 255, 0);
+    text-shadow: blueviolet 2px 2px 2px;
+    text-align: center;
+}
+
+.e {
+    background-color: rgb(206, 195, 216);
+    width: 50%;
+    height: 40px;
+    float: left;
+    border-radius: 40px;
+}
+
+.f {
+    background-color: rgba(179, 136, 80, 0);
+    max-width: 250px;
+    min-width: 80px;
+    height: 40px;
+    border-radius: 40px;
+    margin: auto;
+}
+
+.r {
+    width: 100%;
+    height: 100%;
+    border-radius: 40px;
+    background-color: rgb(241, 240, 236);
+}
+
+.t {
+    background-color: rgb(235, 231, 226);
+    max-width: 250px;
+    min-width: 80px;
+    height: 40px;
+    border-radius: 40px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.y {
+    width: 100%;
+    height: 100%;
+    border-radius: 40px;
+    background-color: rgb(255, 255, 255);
+}
+
+.t1 {
+    background-color: rgb(235, 231, 226);
+    max-width: 250px;
+    min-width: 80px;
+    height: 40px;
+    border-radius: 40px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.u {
+    background-color: rgb(235, 231, 226);
+    max-width: 150px;
+    min-width: 80px;
+    height: 40px;
+    border-radius: 40px;
+    margin: auto;
+    margin-top: 40px;
+}
+
+.i {
+    background-color: rgb(235, 231, 226);
+    max-width: 50px;
+    min-width: 80px;
+    height: 20px;
+    border-radius: 40px;
+    margin: auto;
+    margin-top: 5px;
+}
